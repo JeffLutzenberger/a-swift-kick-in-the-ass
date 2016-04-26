@@ -1,8 +1,4 @@
-# a-swift-kick-in-the-ass
-## Big Sky DevCon 2016 Talk
-
-### Title:
-A Swift Kick in the Ass
+# A Swift Kick in the Ass
 
 ### Abstract:
 Join me on a whirlwind tour of Swift in a production environment. We’ll cover Swift’s design philosophy, its primitive types, functional programming features and its interoperability with Objective-C. All within the context of a production healthcare app.
