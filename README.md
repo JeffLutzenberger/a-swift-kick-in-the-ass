@@ -7,5 +7,7 @@ Join me on a whirlwind tour of Swift in a production environment. We’ll cover 
 
 Jeff is a product developer with a simple goal: make the world a healthier place through technology. Jeff splits his time between writing code, reading, spending time with his family and searching out strange new single track.
 
+### Profile Pic:
+
 ![Image of me writing code...err, riding my motorcycle]
 (https://pbs.twimg.com/profile_images/570353215212752896/l2AKPcl8.jpeg)
